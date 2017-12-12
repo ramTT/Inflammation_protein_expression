@@ -1,6 +1,6 @@
 # Inflammation Following Spinal Cord Injury
 
-## Gene expression 
+## Protein expression in cerebrospinal fluid
 
 **Aim:** Describe the effect of transplanted mesenchymal stem cells (MSCs) on the inflammatory response following spinal cord injury.   
 
