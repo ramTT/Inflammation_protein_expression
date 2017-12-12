@@ -327,7 +327,8 @@ heatmap_data_function <- function(baseline_data, day){
 heatmap_plot_function <- function(heat_map_data){
   heatmap.2(heat_map_data,
             trace="none",
-            col=c(brewer.pal(11, "RdBu")[c(1:4)], brewer.pal(11, "RdBu")[c(8:11)]),
+            #col=c(brewer.pal(11, "RdBu")[c(1:4)], brewer.pal(11, "RdBu")[c(8:11)]),
+            col=c(brewer.pal(11, "RdBu")[c(11:8)], brewer.pal(11, "RdBu")[c(4:1)]),
             cellnote=heat_map_data,
             notecol="white",
             notecex=2,
